@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning Phyton ...
 - 🌱 I’m currently learning Hacking
 - 💞️ I’m looking to collaborate on *** ...
-- 📫 How to reach me? Contact Me In <a href="https://t.me/RJ_KannadaAdmin" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+- 📫 How to reach me? Contact Me In <a href="https://t.me/TheHacker90" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 <!---
 RJKannadaAdmin/RJKannadaAdmin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
